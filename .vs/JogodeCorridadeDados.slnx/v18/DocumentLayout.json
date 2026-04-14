@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming\\JogodeCorridadeDados\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22D7A5A9-ABBB-9C70-B2CD-CE0E7AB4D5EE}|JogodeCorridadeDados\\JogodeCorridadeDados.csproj|d:\\programming\\jogodecorridadedados\\jogodecorridadedados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D7A5A9-ABBB-9C70-B2CD-CE0E7AB4D5EE}|JogodeCorridadeDados\\JogodeCorridadeDados.csproj|solutionrelative:jogodecorridadedados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programming\\JogodeCorridadeDados\\JogodeCorridadeDados\\Program.cs",
+              "RelativeDocumentMoniker": "JogodeCorridadeDados\\Program.cs",
+              "ToolTip": "D:\\Programming\\JogodeCorridadeDados\\JogodeCorridadeDados\\Program.cs",
+              "RelativeToolTip": "JogodeCorridadeDados\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T01:40:10.732Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

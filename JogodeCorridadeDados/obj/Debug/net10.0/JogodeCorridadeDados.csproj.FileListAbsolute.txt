@@ -1,0 +1,14 @@
+D:\Programming\JogodeCorridadeDados\JogodeCorridadeDados\bin\Debug\net10.0\JogodeCorridadeDados.exe
+D:\Programming\JogodeCorridadeDados\JogodeCorridadeDados\bin\Debug\net10.0\JogodeCorridadeDados.deps.json
+D:\Programming\JogodeCorridadeDados\JogodeCorridadeDados\bin\Debug\net10.0\JogodeCorridadeDados.runtimeconfig.json
+D:\Programming\JogodeCorridadeDados\JogodeCorridadeDados\bin\Debug\net10.0\JogodeCorridadeDados.dll
+D:\Programming\JogodeCorridadeDados\JogodeCorridadeDados\bin\Debug\net10.0\JogodeCorridadeDados.pdb
+D:\Programming\JogodeCorridadeDados\JogodeCorridadeDados\obj\Debug\net10.0\JogodeCorridadeDados.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\JogodeCorridadeDados\JogodeCorridadeDados\obj\Debug\net10.0\JogodeCorridadeDados.AssemblyInfoInputs.cache
+D:\Programming\JogodeCorridadeDados\JogodeCorridadeDados\obj\Debug\net10.0\JogodeCorridadeDados.AssemblyInfo.cs
+D:\Programming\JogodeCorridadeDados\JogodeCorridadeDados\obj\Debug\net10.0\JogodeCorridadeDados.csproj.CoreCompileInputs.cache
+D:\Programming\JogodeCorridadeDados\JogodeCorridadeDados\obj\Debug\net10.0\JogodeCorridadeDados.dll
+D:\Programming\JogodeCorridadeDados\JogodeCorridadeDados\obj\Debug\net10.0\refint\JogodeCorridadeDados.dll
+D:\Programming\JogodeCorridadeDados\JogodeCorridadeDados\obj\Debug\net10.0\JogodeCorridadeDados.pdb
+D:\Programming\JogodeCorridadeDados\JogodeCorridadeDados\obj\Debug\net10.0\JogodeCorridadeDados.genruntimeconfig.cache
+D:\Programming\JogodeCorridadeDados\JogodeCorridadeDados\obj\Debug\net10.0\ref\JogodeCorridadeDados.dll
