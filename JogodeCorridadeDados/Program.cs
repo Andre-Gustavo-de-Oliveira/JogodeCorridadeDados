@@ -30,16 +30,16 @@ while (posicaoJogador < 30 && posicaoComputador < 30)
     posicaoJogador += dadoJogador;
     Console.WriteLine($"{jogador} tirou {dadoJogador} e está na posição {posicaoJogador}");
 
-    if (posicaoJogador == 10 || posicaoJogador == 20)
+    if (posicaoJogador == 05 || posicaoJogador == 10 || posicaoJogador == 15 || posicaoJogador == 25)
     {
-        Console.WriteLine($"Se deu bem {jogador} ! Você avança 2 casas!");
-        posicaoJogador += 2;
+        Console.WriteLine($"Se deu bem {jogador} ! Você avança 3 casas!");
+        posicaoJogador += 3;
         Console.WriteLine($"Nova posição: {posicaoJogador}");
     }
-    else if (posicaoJogador == 9 || posicaoJogador == 19 || posicaoJogador == 29)
+    else if (posicaoJogador == 7 || posicaoJogador == 13 || posicaoJogador == 20)
     {
-        Console.WriteLine($"Deu Ruim! {jogador} ! Você volta 5 casas!");
-        posicaoJogador -= 5;
+        Console.WriteLine($"Deu Ruim! {jogador} ! Você volta 2 casas!");
+        posicaoJogador -= 2;
         Console.WriteLine($"Nova posição: {posicaoJogador}");
     }
 
@@ -51,15 +51,15 @@ while (posicaoJogador < 30 && posicaoComputador < 30)
         posicaoJogador += dadoExtra;
         Console.WriteLine($"{jogador} tirou {dadoExtra} na jogada extra e agora está na posição {posicaoJogador}");
 
-        if (posicaoJogador == 10 || posicaoJogador == 20)
+        if (posicaoJogador == 05 || posicaoJogador == 10 || posicaoJogador == 15 || posicaoJogador == 25)
         {
-            Console.WriteLine($"Se deu bem {jogador}! Você avança 2 casas!");
-            posicaoJogador += 2;
+            Console.WriteLine($"Se deu bem {jogador}! Você avança 3 casas!");
+            posicaoJogador += 3;
         }
         else if (posicaoJogador == 9 || posicaoJogador == 19 || posicaoJogador == 29)
         {
-            Console.WriteLine($"Deu ruim! {jogador}! Você volta 5 casas!");
-            posicaoJogador -= 5;
+            Console.WriteLine($"Deu ruim! {jogador}! Você volta 2 casas!");
+            posicaoJogador -= 2;
             if (posicaoJogador < 0)
                 posicaoJogador = 0;
         }
@@ -72,16 +72,16 @@ while (posicaoJogador < 30 && posicaoComputador < 30)
     posicaoComputador += dadoComputador;
     Console.WriteLine($"Computador tirou {dadoComputador} e está na posição {posicaoComputador}");
 
-    if (posicaoComputador == 10 || posicaoComputador == 20)
+    if (posicaoComputador == 05 || posicaoComputador == 10 || posicaoComputador == 15 || posicaoComputador == 25)
     {
-        Console.WriteLine("CPU se deu Bem! avança 2 casas!");
-        posicaoComputador += 2;
+        Console.WriteLine("CPU se deu Bem! avança 3 casas!");
+        posicaoComputador += 3;
         Console.WriteLine($"Nova posição: {posicaoComputador}");
     }
-    else if (posicaoComputador == 9 || posicaoComputador == 19 || posicaoComputador == 29)
+    else if (posicaoComputador == 7 || posicaoComputador == 13 || posicaoComputador == 20)
     {
-        Console.WriteLine("CPU se deu mal! volta 5 casas!");
-        posicaoComputador -= 5;
+        Console.WriteLine("CPU se deu mal! volta 2 casas!");
+        posicaoComputador -= 2;
 
         Console.WriteLine($"Nova posição: {posicaoComputador}");
     }
@@ -94,15 +94,15 @@ while (posicaoJogador < 30 && posicaoComputador < 30)
         posicaoComputador += dadoExtraCPU;
         Console.WriteLine($"CPU tirou {dadoExtraCPU} na jogada extra e agora está na posição {posicaoComputador}");
 
-        if (posicaoComputador == 10 || posicaoComputador == 20)
+        if (posicaoComputador == 05 || posicaoComputador == 10 || posicaoComputador == 15 || posicaoComputador == 25)
         {
             Console.WriteLine("CPU se deu bem! Avança 2 casas!");
             posicaoComputador += 2;
         }
-        else if (posicaoComputador == 9 || posicaoComputador == 19 || posicaoComputador == 29)
+        else if (posicaoComputador == 7 || posicaoComputador == 13 || posicaoComputador == 20)
         {
-            Console.WriteLine("CPU se deu mal! Volta 5 casas!");
-            posicaoComputador -= 5;
+            Console.WriteLine("CPU se deu mal! Volta 2 casas!");
+            posicaoComputador -= 2;
             if (posicaoComputador < 0)
                 posicaoComputador = 0;
         }
