@@ -56,7 +56,7 @@ while (posicaoJogador < 30 && posicaoComputador < 30)
             Console.WriteLine($"Se deu bem {jogador}! Você avança 3 casas!");
             posicaoJogador += 3;
         }
-        else if (posicaoJogador == 9 || posicaoJogador == 19 || posicaoJogador == 29)
+        else if (posicaoJogador == 7 || posicaoJogador == 13 || posicaoJogador == 20)
         {
             Console.WriteLine($"Deu ruim! {jogador}! Você volta 2 casas!");
             posicaoJogador -= 2;
