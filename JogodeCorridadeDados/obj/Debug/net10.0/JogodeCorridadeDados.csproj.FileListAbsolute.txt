@@ -12,3 +12,4 @@ D:\Programming\JogodeCorridadeDados\JogodeCorridadeDados\obj\Debug\net10.0\refin
 D:\Programming\JogodeCorridadeDados\JogodeCorridadeDados\obj\Debug\net10.0\JogodeCorridadeDados.pdb
 D:\Programming\JogodeCorridadeDados\JogodeCorridadeDados\obj\Debug\net10.0\JogodeCorridadeDados.genruntimeconfig.cache
 D:\Programming\JogodeCorridadeDados\JogodeCorridadeDados\obj\Debug\net10.0\ref\JogodeCorridadeDados.dll
+D:\Programming\JogodeCorridadeDados\JogodeCorridadeDados\obj\Debug\net10.0\JogodeCorridadeDados.sourcelink.json
