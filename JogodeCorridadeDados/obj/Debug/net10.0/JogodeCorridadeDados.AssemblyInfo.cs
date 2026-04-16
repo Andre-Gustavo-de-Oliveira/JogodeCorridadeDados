@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JogodeCorridadeDados")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4388d1459b49c6badd8e1f0f2100d26ea13b1818")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ab41b1f7714ba2ffd94ea912bfc12409a1a5a2e7")]
 [assembly: System.Reflection.AssemblyProductAttribute("JogodeCorridadeDados")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JogodeCorridadeDados")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
