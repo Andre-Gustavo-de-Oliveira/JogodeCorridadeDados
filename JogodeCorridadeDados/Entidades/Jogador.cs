@@ -1,5 +1,3 @@
-namespace JododeCorridadeDados.Consoleapp.Entidades;
-
 using System.Security.Cryptography;
 
 class Jogador

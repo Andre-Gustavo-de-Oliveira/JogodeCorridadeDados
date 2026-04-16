@@ -2,7 +2,6 @@
 
 using System.Security.Cryptography;
 
-using JododeCorridadeDados.Consoleapp.Entidades;
 class Program
 {
     static void Main(string[] args)
